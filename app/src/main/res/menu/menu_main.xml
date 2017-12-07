@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_ir_frequency"
+        android:title="IR Frequency"/>
+
+    <item
+        android:id="@+id/action_add_channel"
+        android:title="Add Channel"/>
+
+    <item
+        android:id="@+id/action_debug_ir"
+        android:title="Debug IR"/>
+</menu>
